@@ -38,7 +38,7 @@ class CatFeederServer(object):
 				data = connection.recv(1024)
 				if data:
 					if "feed" in str(data):
-						CatFeeder.feed()
+						catfeeder.feed()
 					print ("Data: %s" % data)
 				else:
 					print ("no more data.")
