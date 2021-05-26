@@ -1,0 +1,21 @@
+aniso8601 @ file:///Users/jhagle/Library/Caches/pypoetry/artifacts/d2/99/17/7fffc51ae7906c6d8982fa5737cd0257475dd02b842bf427053ebfe45e/aniso8601-9.0.1-py2.py3-none-any.whl
+appdirs @ file:///Users/jhagle/Library/Caches/pypoetry/artifacts/47/cf/4f/4ef02fb715aa36daeebad18cc5570126159c659c41c7b5ec46a7387d9b/appdirs-1.4.4-py2.py3-none-any.whl
+black @ file:///Users/jhagle/Library/Caches/pypoetry/artifacts/47/b8/83/8ec412cb9016c262928b797e8e76883f2c5e3a992b094827ee7d10f7a6/black-21.5b1-py3-none-any.whl
+catfeeder==0.1.0
+click @ file:///Users/jhagle/Library/Caches/pypoetry/artifacts/ae/32/83/e159324c1bd58177322f4e45f598d500fe22544bff20f53f55cf749da8/click-8.0.1-py3-none-any.whl
+flake8 @ file:///Users/jhagle/Library/Caches/pypoetry/artifacts/3f/57/d5/11722093c13092cc3bfc3dd7c88aef6f8e4d5ac97cfe5fd054d5aba412/flake8-3.9.2-py2.py3-none-any.whl
+Flask @ file:///Users/jhagle/Library/Caches/pypoetry/artifacts/11/d0/70/f0ced5a972a10ba57f76ae7688eed0964eb52c935dc381d4a8d4bccce3/Flask-2.0.1-py3-none-any.whl
+Flask-RESTful @ file:///Users/jhagle/Library/Caches/pypoetry/artifacts/df/dc/20/9b68af9a645dc28aa69ad1b64552c11d0f97661a71b777255b4ee02862/Flask_RESTful-0.3.9-py2.py3-none-any.whl
+itsdangerous @ file:///Users/jhagle/Library/Caches/pypoetry/artifacts/56/85/a6/70db371e4b63cdd55bf95de92ac726d8cf622812e0d7383910edd55619/itsdangerous-2.0.1-py3-none-any.whl
+Jinja2 @ file:///Users/jhagle/Library/Caches/pypoetry/artifacts/21/2e/46/0a76ea6f6a15e594c9828a85a781f1cee8ed5a1b77e361305645f9e1f4/Jinja2-3.0.1-py3-none-any.whl
+MarkupSafe @ file:///Users/jhagle/Library/Caches/pypoetry/artifacts/20/e4/29/5b1a93d4ee8437f01551437cffbb57ba6744c59796443ca99051473f75/MarkupSafe-2.0.1-cp39-cp39-macosx_10_9_x86_64.whl
+mccabe @ file:///Users/jhagle/Library/Caches/pypoetry/artifacts/96/5e/5f/21ae5296697ca7f94de4da6e21d4936d74029c352a35202e4c339a4253/mccabe-0.6.1-py2.py3-none-any.whl
+mypy-extensions @ file:///Users/jhagle/Library/Caches/pypoetry/artifacts/92/45/bf/1807ce854ff668d92602207a37bfa9316def2a3f257bd03c4c5be4bc9b/mypy_extensions-0.4.3-py2.py3-none-any.whl
+pathspec @ file:///Users/jhagle/Library/Caches/pypoetry/artifacts/40/8b/b2/80a6945971d8475bcc04d09afec4845855dd74f68da6a4c18bbf8f7784/pathspec-0.8.1-py2.py3-none-any.whl
+pycodestyle @ file:///Users/jhagle/Library/Caches/pypoetry/artifacts/4c/30/97/026c283ef67eb248e5b7e6fad1f8ffb99dae50c11fd93eb939fd7c1f46/pycodestyle-2.7.0-py2.py3-none-any.whl
+pyflakes @ file:///Users/jhagle/Library/Caches/pypoetry/artifacts/eb/c4/2c/47fcc1b3f387b1f7033e85b3ac6ee7772338461a8de8ac3977c6a7dcc1/pyflakes-2.3.1-py2.py3-none-any.whl
+pytz @ file:///Users/jhagle/Library/Caches/pypoetry/artifacts/b0/a7/8d/54de3ab4d1ff29abbbca1e9ccbaefdc2a1b290138311b84f73bee16de1/pytz-2021.1-py2.py3-none-any.whl
+regex @ file:///Users/jhagle/Library/Caches/pypoetry/artifacts/97/e1/51/04a81888501f5a1a42d2ac2a4f980cfe1a022a377f9653dc064bad835d/regex-2021.4.4-cp39-cp39-macosx_10_9_x86_64.whl
+six @ file:///Users/jhagle/Library/Caches/pypoetry/artifacts/08/9f/47/c16ae03035fc69eaf100ea39657a49baaeef714e25a52575710c34cd48/six-1.16.0-py2.py3-none-any.whl
+toml @ file:///Users/jhagle/Library/Caches/pypoetry/artifacts/6b/6a/c9/53b19f7870a77d855e8b05ecdc98193944e5d246dafe11bbcad850ecba/toml-0.10.2-py2.py3-none-any.whl
+Werkzeug @ file:///Users/jhagle/Library/Caches/pypoetry/artifacts/4f/82/5b/068ad32eb584b1a25f08994af7a9721c4c3fc69bb03dda7e400fb2f1ea/Werkzeug-2.0.1-py3-none-any.whl
