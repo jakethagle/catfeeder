@@ -9,7 +9,7 @@ python = "^3.9"
 Flask = "^2.0.1"
 Flask-RESTful = "^0.3.9"
 flake8 = "^3.9.2"
-black = "^21.5b1"
+black = "^24.3"
 
 [tool.poetry.dev-dependencies]
 
